@@ -25,7 +25,7 @@ public class C08_StringBuilderMethodlari {
 
         System.out.println(sb); // Java
 
-        // void olan setCharAt() kalici degisiklik yapar
+        // void olan setCharAt() kalici degisiklik  yapar
         sb.setCharAt(0,'H');
         System.out.println(sb); // Hava
 
