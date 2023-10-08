@@ -15,7 +15,7 @@ public class C08_StringBuilderMethodlari {
             boyle yapilan degisiklikler sb'da kalici degisiklik YAPMAZ
          */
 
-        StringBuilder sb = new StringBuilder("Java ");
+        StringBuilder sb = new StringBuilder("Java");
 
         System.out.println(sb.substring(2)); // va
 
