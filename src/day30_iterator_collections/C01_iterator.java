@@ -96,6 +96,8 @@ public class C01_iterator {
 
         // iterator.next(); // NoSuchElementException
 
+        // ilhan pacal
+
     }
 
 }
